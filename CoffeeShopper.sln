@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{662E914B-8F9C-4795-91F4-E18B23853319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B3407777-836B-45EE-9A5C-844053D3929A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{0DFF1759-D5B3-4F91-B9D3-32BC73B14DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662E914B-8F9C-4795-91F4-E18B23853319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662E914B-8F9C-4795-91F4-E18B23853319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662E914B-8F9C-4795-91F4-E18B23853319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662E914B-8F9C-4795-91F4-E18B23853319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3407777-836B-45EE-9A5C-844053D3929A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3407777-836B-45EE-9A5C-844053D3929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3407777-836B-45EE-9A5C-844053D3929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3407777-836B-45EE-9A5C-844053D3929A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFF1759-D5B3-4F91-B9D3-32BC73B14DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFF1759-D5B3-4F91-B9D3-32BC73B14DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFF1759-D5B3-4F91-B9D3-32BC73B14DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFF1759-D5B3-4F91-B9D3-32BC73B14DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A46347-8069-4FCC-AA59-18E3FB89E2CE}
+	EndGlobalSection
+EndGlobal
